@@ -1,6 +1,6 @@
 import fs from 'fs';
 import * as dotenv from "dotenv";
-dotenv.config({ path: __dirname+'/.env' });
+dotenv.config();
 
 // @@@SNIPSTART typescript-mtls-worker
 import { Worker, NativeConnection } from '@temporalio/worker';
