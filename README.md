@@ -1,1 +1,1 @@
-# -temporalio-hello-world-mtls-ts
+# temporalio-hello-world-mtls-ts
